@@ -2,7 +2,7 @@ Here's a **Capacity Planning Document** specifically tailored for a service expe
 
 ---
 
-## AWS Capacity Planning Document for [Service Name]
+## AWS Capacity Planning Document for clearview System
 
 ### 1. **Objective**
 This document outlines the AWS-based capacity planning for the [Service Name], which will handle 100 concurrent users with scalability to support a total user base of 1 million users. The focus is on resource estimation, AWS service selection, and scalability strategies.
