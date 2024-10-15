@@ -1,6 +1,3 @@
-Here's a **Capacity Planning Document** specifically tailored for a service expected to handle **100 concurrent users** at any given time and a total of **1 million users** in the long run, hosted on **AWS**:
-
----
 
 ## AWS Capacity Planning Document for clearview System
 
