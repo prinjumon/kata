@@ -2,10 +2,10 @@
 ## AWS Capacity Planning Document for clearview System
 
 ### 1. **Objective**
-This document outlines the AWS-based capacity planning for the [Service Name], which will handle 100 concurrent users with scalability to support a total user base of 1 million users. The focus is on resource estimation, AWS service selection, and scalability strategies.
+This document outlines the AWS-based capacity planning for the ClearView System, which will handle 100 concurrent users with scalability to support a total user base of 1 million users. The focus is on resource estimation, AWS service selection, and scalability strategies.
 
 ### 2. **Overview of the Service**
-- **Service Name**: [Service Name]
+- **Service Name**: ClearView System
 - **Functionality**: [Brief description of the service’s core functionality].
 - **AWS Deployment Environment**: [e.g., EC2, ECS, EKS, Lambda, etc.].
 - **Dependencies**: [e.g., Amazon RDS, DynamoDB, S3, external APIs].
