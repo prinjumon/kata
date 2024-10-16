@@ -1,9 +1,9 @@
 # Cost
 Cost calculation in AWS for a microservice that handles 50 concurrent users and a total of 10000 users
-1. **Compute (EC2 or ECS/Fargate)**
-2. **Load Balancer (ALB/ELB)**
-3. **Database (RDS or DynamoDB)**
-4. **Cache (ElastiCache)**
+1. **Compute (EC2)**
+2. **Load Balancer (ALB)
+3. **Database (RDS )**
+4. **Redshift **
 5. **Monitoring (CloudWatch)**
 
 I'll break down the cost for each component based on an estimated usage pattern.
