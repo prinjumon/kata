@@ -45,7 +45,7 @@ You will need an **Application Load Balancer** (ALB) to distribute traffic to mi
 
   - **Total RDS cost**: $13.54 + $5.75 = **$19.29/month**
 
-### 3. **Redshift (Serverless)**
+### 4. **Redshift (Serverless)**
 
 -Redshift Serverless is a new option where you only pay for the compute and storage you use, without needing to provision or manage nodes.
 
