@@ -3,7 +3,7 @@ Cost calculation in AWS for a microservice that handles 50 concurrent users and 
 1. **Compute (EC2)**
 2. **Load Balancer (ALB)**
 3. **Database (RDS )**
-4. **Redshift**
+4. **Redshift (Serverless)**
 5. **Monitoring (CloudWatch)**
 
 ---
