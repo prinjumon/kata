@@ -1,4 +1,5 @@
-Cost calculation in AWS for a microservice that handles 100 concurrent users and a total of 1 million users
+# Cost
+Cost calculation in AWS for a microservice that handles 50 concurrent users and a total of 10000 users
 1. **Compute (EC2 or ECS/Fargate)**
 2. **Load Balancer (ALB/ELB)**
 3. **Database (RDS or DynamoDB)**
