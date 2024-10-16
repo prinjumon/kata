@@ -1,5 +1,4 @@
-For cost calculation in AWS for a microservice that handles 100 concurrent users and a total of 1 million users, the key AWS services you'll likely use are:
-
+Cost calculation in AWS for a microservice that handles 100 concurrent users and a total of 1 million users
 1. **Compute (EC2 or ECS/Fargate)**
 2. **Load Balancer (ALB/ELB)**
 3. **Database (RDS or DynamoDB)**
