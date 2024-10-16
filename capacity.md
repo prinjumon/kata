@@ -1,20 +1,15 @@
 # Cost
 Cost calculation in AWS for a microservice that handles 50 concurrent users and a total of 10000 users
 1. **Compute (EC2)**
-2. **Load Balancer (ALB)
+2. **Load Balancer (ALB)**
 3. **Database (RDS )**
-4. **Redshift **
+4. **Redshift**
 5. **Monitoring (CloudWatch)**
-
-I'll break down the cost for each component based on an estimated usage pattern.
 
 ---
 
-### 1. **Compute Costs (EC2 vs ECS/Fargate)**
-You have two main options for compute resources: **EC2 instances** or **ECS/Fargate** for containerized microservices.
-
-#### **EC2  Calculation**:
-Assume we need 2 t3.medium EC2 instances to handle 100 concurrent users under average load, and you auto-scale up to 4 during peak times.
+#### 1. **EC2  Calculation**:
+Assume we need 2 t3.medium EC2 instances  and auto-scale up to 4 during peak times.
 
 - **Instance cost** (t3.medium, 2 vCPUs, 4GB RAM, on-demand pricing):
   - Price per hour: $0.0416 per instance (in the US East (N. Virginia) region)
